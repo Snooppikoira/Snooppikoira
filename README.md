@@ -41,8 +41,7 @@ Welcome to the dark corner of the GitHub labyrinth, where I go by the alias **Sn
 ### ✨ **Random & Fun Widgets**
 
 <div align="left">
-  
-  ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=chartreuse-dark&bgColor=0d1117&title_color=00FF00&text_color=00FF00)
+
   ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&title_color=00FF00&text_color=00FF00&backgroundColor=00FF00)
 
 </div>
@@ -76,6 +75,6 @@ Welcome to the dark corner of the GitHub labyrinth, where I go by the alias **Sn
 <div align="left">
 
 **Connect, if you dare...** 👤💻  
-<sub>🔗 Secret Link: [Hidden Page](#)</sub>
+<sub>🔗 Secret Link: [!?%&(=`/](https://www.youtube.com/watch?v=D3MB_EkNV5Y)</sub>
 
 </div>
