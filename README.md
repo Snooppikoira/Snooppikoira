@@ -1,80 +1,65 @@
-# 👁️‍🗨️ **Greetings, Wanderer...**
+# 🌌 **Welcome, Explorer**
 
 <div align="center">
 
-  <img src="https://i.pinimg.com/originals/2e/f0/a0/2ef0a0f2a3cc9e6cc31f17f78557abcc.gif" alt="Matrix" width="100%" height="200px" />
+  <img src="https://cdn.discordapp.com/attachments/1217504176846671983/1294950433240121395/tumblr_f84ed41d52bb1515f4158e41e2b0aacd_578c181b_540.gif?ex=670ce012&is=670b8e92&hm=83995aea1e694b296f227be3576e6067a0f64cdb76421607c74074a95c9c0c21&" alt="Aurora Borealis" width="100%" height="200px" />
 
 </div>
 
-
-
-Welcome to the dark corner of the GitHub labyrinth, where I go by the alias **Snooppikoira**. I'm an enigmatic developer with a penchant for coding and unraveling the digital fabric of reality. 🕵️‍♂️ Feel free to explore my work... but tread carefully, not everything is as it seems. 🧩
+Hello and welcome to my GitHub! I am **Snooppikoira**, a developer passionate about creating impactful software solutions. Explore my projects, repositories, and ideas—I'm always working on something new in the realms of **programming, development tools**, and **technology**.
 
 ---
 
-## 🛠️ **My Arsenal of Tools & Languages**
+## 🛠️ **Technologies and Tools**
 
 <div align="center">
 
-| 🗡️ **Programming Languages** | 🔧 **DevOps & Secret Tools** |
-| :--------------------------: | :------------------------: |
-| ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF00) ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF00) ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF00) ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF00) | ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF00) ![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=00FF00) ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00FF00) |
-| ![Lua](https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua&logoColor=00FF00) ![Batch File](https://img.shields.io/badge/Batch_File-0D1117?style=for-the-badge&logo=windowsterminal&logoColor=00FF00) ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FF00) ![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00FF00) | ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FF00) |
+| **Languages** | **DevOps & Tools** |
+| :------------: | :----------------: |
+| ![Python](https://img.shields.io/badge/Python-55286f?style=for-the-badge&logo=python&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/JavaScript-ff8c42?style=for-the-badge&logo=javascript&logoColor=ffffff) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/CSS3-007acc?style=for-the-badge&logo=css3&logoColor=ffffff) | ![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=a1eafb) ![VS Code](https://img.shields.io/badge/VS_Code-008080?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff) 
+| ![Lua](https://img.shields.io/badge/Lua-483d8b?style=for-the-badge&logo=lua&logoColor=ffffff) ![SQL](https://img.shields.io/badge/SQL-2ecc71?style=for-the-badge&logo=postgresql&logoColor=ffffff) ![Batch](https://img.shields.io/badge/Batch-4d4d4d?style=for-the-badge&logo=windowsterminal&logoColor=ffffff) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=ffffff) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff) |
+
+</div>
+
+
+---
+
+## 📊 **GitHub Stats**
+
+<div align="left">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snooppikoira&show_icons=true&theme=tokyonight&hide_border=true&icon_color=82e0aa&title_color=ab84d1&text_color=f1c40f&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snooppikoira&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&title_color=ab84d1&text_color=f1c40f)
 
 </div>
 
 ---
 
-## 🕵️‍♂️ **My Digital Footprint**
+## 🔥 **Activity Map**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snooppikoira&show_icons=true&theme=chartreuse-dark&hide_border=true&icon_color=00FF00&title_color=00FF00&text_color=00FF00&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snooppikoira&langs_count=10&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FF00&text_color=00FF00)
+<div align="center">
 
-### 🔥 **Activity Map**
-
-[![Snooppikoira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=snooppikoira&theme=github-dark&hide_border=true&line=00FF00&point=00FF00&area_color=000000&bg_color=0d1117&color=00FF00)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 🏆 **Trophies Collected**
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=snooppikoira&theme=matrix&no-frame=true&column=6&margin-w=15&margin-h=15&title_color=00FF00&icon_color=00FF00&text_color=00FF00&bg_color=0d1117)
-
-### ✨ **Random & Fun Widgets**
-
-<div align="left">
-
-  ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&title_color=00FF00&text_color=00FF00&backgroundColor=00FF00)
+[![Snooppikoira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=snooppikoira&theme=github-dark&hide_border=true&line=c1fc7b&point=ff00ec&area_color=007061&bg_color=333333&color=7bfce5)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-### ⚠️ **Red Alerts & Surveillance**
+## 🏆 **GitHub Achievements**
 
-<div align="left">
+<div align="center">
 
-> **⚠️ Warning**: Intruders are being watched and logged... 🕵️‍♂️  
-> Proceed with caution and watch your digital trail. 🌐
-
-![Profile Views](https://komarev.com/ghpvc/?username=snooppikoira&color=0d1117&logoColor=00FF00&style=for-the-badge)  
-![Followers](https://img.shields.io/github/followers/snooppikoira?label=Followers&style=for-the-badge&color=0d1117&logoColor=00FF00&logo=github) ![Stars](https://img.shields.io/github/stars/snooppikoira?label=Stars&style=for-the-badge&color=0d1117&logoColor=00FF00&logo=github)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=snooppikoira&theme=onestar&no-frame=true&column=6&margin-w=15&margin-h=15&title_color=ab84d1&icon_color=ab84d1&text_color=f1c40f&bg_color=161b22)
 
 </div>
 
 ---
 
-### 💬 **Quotes**
+## 💬 **Inspirational Quote**
 
-<div align="left">
-
-> **"The most dangerous code is not the one that is executed, but the one that lies dormant, waiting for the right moment."**  
-
-</div>
+> **"Code is like humor. When you have to explain it, it’s bad." – Cory House**
 
 ---
 
-<div align="left">
-
-**Connect, if you dare...** 👤💻  
-<sub>🔗 Secret Link: [!?%&(=`/](https://www.youtube.com/watch?v=D3MB_EkNV5Y)</sub>
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=snooppikoira&color=161b22&logoColor=ab84d1&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/snooppikoira?label=Followers&style=for-the-badge&color=161b22&logoColor=ab84d1&logo=github)
+![Stars](https://img.shields.io/github/stars/snooppikoira?label=Stars&style=for-the-badge&color=161b22&logoColor=ab84d1&logo=github)
