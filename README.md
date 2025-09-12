@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/1217384417715028032">
+  <a href="https://discord.com/users/764196391652163625">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-Snooppikoira-5865F2?logo=discord&logoColor=white&style=for-the-badge">
   </a>
   <a href="https://komarev.com/ghpvc/?username=snooppikoira">
