@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=5000&pause=2500&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Snooppikoira" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi 👋 I'm Snooppikoira</h1>
 
 <p align="center">
   <a href="https://discord.com/users/764196391652163625">
