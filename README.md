@@ -17,9 +17,4 @@
   🌟 <b>Mission:</b> Deliver immersive and polished experiences for roleplay servers.  
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snooppikoira&layout=compact&title_color=5dade2&bg_color=0d1117&text_color=ffffff&icon_color=5dade2" alt="Languages"/>
-</p>
-
-
 
