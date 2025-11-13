@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hi, I'm Snooppikoira</h1>
 
-<h3 align="center">🚀 Founder & Lead Developer of <span style="color:#ff5252;">United-Scripts</span></h3>
-
 <p align="center">
   <a href="https://discord.com/users/764196391652163625">
     <img alt="Discord" src="https://img.shields.io/badge/Snooppikoira-5865F2?logo=discord&logoColor=white&style=for-the-badge">
